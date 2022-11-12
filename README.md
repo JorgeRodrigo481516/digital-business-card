@@ -21,26 +21,30 @@
 
 
 <p align="center">
-  <img width="900px" src="https://user-images.githubusercontent.com/79382459/165197949-467ba82c-133f-4539-b4c2-fa75d7927d54.png" alt="Digital Business Card website"
+  <img width="900px" src="https://user-images.githubusercontent.com/79382459/201459572-4296c1c1-1a9e-476f-bbdf-8e21b4f0ace5.jpeg" alt="Digital Business Card website"
 </p>
-
-
 	
-<a href="https://jorgerodrigo481516.github.io/digital-business-card"><h1 id="sobre"> Digital Business Card 🔗 </h1></a>
+<h1 id="sobre"> 
+  <a href="https://jorgerodrigo481516.github.io/digital-business-card/" target="_blank"> 
+    Digital Business Card 🔗 
+  </a>
+</h1>
 
 Projeto de estudo retirado do curso [freecodecamp](https://www.youtube.com/watch?v=bMknfKXIFA8) sobre a biblioteca [React](https://reactjs.org/). A ideia do projeto é o desenvolvimento de uma Card Profissional com algumas informações básicas e links para suas redes sociais para contato. O objetivo por trás do projeto é praticar a construção de componentes React e estilizá-los.
 
 Para a realização do projeto estruturei o ambiente de desenvolvimento utilizando o [Vite](https://vitejs.dev/) e para a estilização do projeto utilizei o [TailwindCSS](https://tailwindcss.com/). Além de também configurar [ESlint](https://eslint.org/) e [Prettier](https://prettier.io/) como ferramentas de ajuda. Com isso, pude não só desenvolver com alta fidelidade, mas também com maior agilidade e eficiência.
 
-Aqui está o link para o design original do cartão: [Digital Business Card](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card)
+Aqui está o link para o design original do cartão: [Digital Business Card Figma Design](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card)
 
 > <em><br>
-Nota: Como o objetivo é praticar e aprender mais sobre a Biblioteca, não me limitei ao que foi proposto inicialmente. Resolvi adicionar a possibilidade de o usuário também poder editar o que é mostrado, com um pequeno formulário que altera o conteúdo do Card em tempo real.
-</em>
+    Nota: Como o objetivo é praticar e aprender mais sobre a Biblioteca, não me limitei ao que foi proposto inicialmente. Resolvi adicionar a possibilidade de o usuário também poder editar o que é mostrado, com um pequeno formulário que altera o conteúdo do Card em tempo real.
+  </em>
 
 
 <br> <br>
-<p align="center" color="green"><strong> ✨ <em>Digital Business Card</em> 💙 desenvolvido com sucesso  ✨ </strong></p>
+<p align="center" color="green">
+  <strong> ✨ <em>Digital Business Card</em> 💙 desenvolvido com sucesso  ✨ </strong>
+</p>
 
 
 <p align="center">
