@@ -21,11 +21,11 @@
 
 
 <p align="center">
-  <img width="900px" src="https://user-images.githubusercontent.com/79382459/201459572-4296c1c1-1a9e-476f-bbdf-8e21b4f0ace5.jpeg" alt="Digital Business Card website"
+  <img width="900px" src="https://user-images.githubusercontent.com/79382459/201494347-27b393ad-b560-44d1-892e-43fe4243cbb3.png" alt="Digital Business Card website"
 </p>
-	
+
 <h1 id="sobre"> 
-  <a href="https://jorgerodrigo481516.github.io/digital-business-card/" target="_blank"> 
+  <a href="https://jorgerodrigo481516.github.io/digital-business-card/"> 
     Digital Business Card 🔗 
   </a>
 </h1>
@@ -37,7 +37,7 @@ Para a realização do projeto estruturei o ambiente de desenvolvimento utilizan
 Aqui está o link para o design original do cartão: [Digital Business Card Figma Design](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card)
 
 > <em><br>
-    Nota: Como o objetivo é praticar e aprender mais sobre a Biblioteca, não me limitei ao que foi proposto inicialmente. Resolvi adicionar a possibilidade de o usuário também poder editar o que é mostrado, com um pequeno formulário que altera o conteúdo do Card em tempo real.
+    <strong>Nota:</strong> Como o objetivo é praticar e aprender mais sobre a Biblioteca, não me limitei ao que foi proposto inicialmente. Resolvi adicionar a possibilidade de o usuário também poder editar o que é mostrado, com um pequeno formulário que altera o conteúdo do Card em tempo real.
   </em>
 
 
@@ -53,7 +53,7 @@ Aqui está o link para o design original do cartão: [Digital Business Card Figm
  <a href="#recursos">Recursos</a> • 
  <a href="#tarefas">Tarefas</a> • 
  <a href="#instalacao">Rodando</a> • 
- <a href="#contribuicao">Contribuicao</a> • 
+ <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenca">Licença</a>
 </p>
 
@@ -67,7 +67,7 @@ Aqui está o link para o design original do cartão: [Digital Business Card Figm
 <br>
 <h2 id="recursos"> 🧰 Recursos </h2>
 
-🔷 <strong><em> Multiplataforma </em></strong> - PC, notebook, tablet, e smartphone.
+🔷 <strong><em> Multiplataforma </em></strong> - PC, laptop, tablet, e smartphone.
 
 🔷 <strong><em> Compatibilidade </em></strong> - Chrome, Brave, Microsoft Edge, Internet Explorer, Firefox, e outros.
 
@@ -91,6 +91,8 @@ Aqui está o link para o design original do cartão: [Digital Business Card Figm
 ✔️ <strong> Atribuir interatividade aos componentes </strong>
 
 ✔️ <strong> Adicionar responsividade </strong>
+
+✔️ <strong> Permitir a alteração do conteúdo do Card </strong>
 
 💡 <strong> Construir o back-end para receber e/ou administrar dados </strong>
 
