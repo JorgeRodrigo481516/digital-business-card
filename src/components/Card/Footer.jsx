@@ -26,7 +26,7 @@ export default function Footer() {
               target="_blank"
               rel="noreferrer"
               className={
-                urlPiece || initialData.urlPiece
+                urlPiece || initialData.socialMedia[index].urlPiece
                   ? withUrlPieceStyle
                   : withoutUrlPieceStyle
               }

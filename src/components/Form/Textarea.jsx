@@ -30,7 +30,7 @@ export default function Textarea({ isUpdatingAbout }) {
 
             updateData(target, newDescription);
           }}
-          className="min-[600px]:w-[22rem] w-64 h-64 min-[600px]:h-52 py-6 px-4 rounded-xl overflow-hidden outline-none scroll- bg-neutral-400 focus:bg-white placeholder:text-neutral-800"
+          className="resize-none min-[600px]:w-[22rem] w-64 h-[17rem] min-[600px]:h-56 py-6 px-4 rounded-xl overflow-hidden outline-none scroll- bg-neutral-400 focus:bg-white placeholder:text-neutral-800"
         />
       </label>
     </div>

@@ -8,7 +8,7 @@ export default function About() {
   return (
     <section className="px-8">
       <h3 className="text-lg font-bold mb-1.5 text-neutral-100">About</h3>
-      <p className="text-xs text-justify text-neutral-300">
+      <p className="h-24 text-xs text-justify text-neutral-300">
         {about || initialData.about}
       </p>
     </section>

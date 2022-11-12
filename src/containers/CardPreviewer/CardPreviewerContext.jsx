@@ -14,7 +14,7 @@ export const initialData = {
   isMan: true,
   name: "Rodrigo Buonomo",
   job: "Frontend Developer",
-  website: "",
+  website: "https://github.com/JorgeRodrigo481516/digital-business-card",
   email: "jorge.rodrigo.481516@gmail.com",
   about:
     "I'm a frontend developer with a particular interest in organizing the folder structure. I try to keep up with current technologies and best practices and am always looking for new things to learn.",
